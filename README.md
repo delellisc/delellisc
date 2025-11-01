@@ -10,14 +10,14 @@
 
 💡 I love **problem-solving**, whether it’s optimizing code, tackling competitive programming challenges, or trying (and often failing) to **stay in Zone 2** while running and cycling!
 
-## 🎯 My Passions
+## 🎯 Passions
 - 🤖 Machine Learning  
 - 🖥️ GPU Development  
 - 📡 Signal Processing  
 - 💻 Competitive Programming  
 - 📐 Mathematics  
 
-## 🛠️ My Skillset
+## 🛠️ Skillset
 - ©️ C / C++  
 - 🐍 Python  
 - 💾 SQL & MongoDB  
