@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hello there! 👋 I'm Camilo de Lellis
 
-<!--
-**delellisc/delellisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Currently diving into **Internet Systems Technology** while crunching numbers as a **Data Analyst**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My Passions
+- 🤖 Machine Learning  
+- 🖥️ GPU Development  
+- 📡 Signal Processing  
+- 💻 Competitive Programming  
+- 📐 Mathematics  
+
+---
+
+## 🛠️ My Skillset
+- ©️ C / C++  
+- 🐍 Python  
+- 💾 SQL & MongoDB  
+- 📊 Pandas & Power BI  
+
+---
+
+## 🚀 Currently Learning
+- 🎨 C++ for Graphics Development  
+- 📈 Python for Statistics & Data Analysis  
+- ⚡ Parallel Computing  
+- 🔢 Low-Level Arithmetic  
+
+---
+
+💡 Fun fact: I love **problem-solving**, whether it’s optimizing code, tackling competitive programming challenges, or trying (and often failing) to **stay in Zone 2** while running and cycling!
+
+---
+
+## 📬 Let’s Connect!
+- [LinkedIn](https://www.linkedin.com/in/camilo-de-lellis-de-medeiros/)  
+
