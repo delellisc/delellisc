@@ -24,8 +24,5 @@
 - 🔢 Low-Level Arithmetic  
 
 ## 📬 Let’s Connect!
-<div align="left">
-  <a href="https://www.linkedin.com/in/camilo-de-lellis-de-medeiros/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-</div>
+<p><a href="https://www.linkedin.com/in/camilo-de-lellis-de-medeiros/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://github.com/delellisc" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a><a href="https://medium.com/@delellis021" target="_blank"><img alt="Medium.com" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
