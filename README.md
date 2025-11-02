@@ -34,3 +34,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=delellisc&show_icons=true&theme=solarized-light&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=delellisc&layout=compact&theme=solarized-light&hide_border=true"/>
 </p>
+
+![Light mode Signature](assets/signature-light.svg)
+
+![Dark mode Signature](assets/signature-dark.svg)
