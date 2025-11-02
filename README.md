@@ -3,7 +3,10 @@
   <img src="assets/signature-dark.svg#gh-dark-mode-only" width="200" alt="Dark Signature" />
 </p>
 
-<h3 align="center">Hello there! 👋</h3>
+<h3 align="center">
+  <em>"Hello, there."</em><br/>
+  — Obi-Wan Kenobi, <strong>Star Wars: Episode III – Revenge of the Sith</strong>
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/camilo-de-lellis-de-medeiros/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
