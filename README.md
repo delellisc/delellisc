@@ -19,9 +19,10 @@
   <a href="https://github.com/delellisc" target="_blank">GitHub</a>
   <a href="https://www.linkedin.com/in/camilo-de-lellis-de-medeiros/" target="_blank">LinkedIn</a>
   <a href="https://medium.com/@delellisc" target="_blank">Medium</a>
+  <a href="https://discord.com/users/delellisc" target="_blank">Discord</a>
 </p>
 
-<p style="height:10px"></p> 
+<br>
 
 <p align="center">
   <img src="assets/face-light.svg#gh-light-mode-only" width="50" alt="Light Face" />
