@@ -19,14 +19,30 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/delellisc" target="_blank"><img src="assets/github-light.svg#gh-light-mode-only" width="50" alt="GitHub Light" /></a>
-  <a href="https://www.linkedin.com/in/camilo-de-lellis-de-medeiros/" target="_blank"><img src="assets/linkedin-light.svg#gh-light-mode-only" width="50" alt="LinkedIn Light" /></a>
-  <a href="https://medium.com/@delellisc" target="_blank"><img src="assets/medium-light.svg#gh-light-mode-only" width="50" alt="Medium Light" /></a>
-  <a href="https://discord.com/users/delellisc" target="_blank"><img src="assets/discord-light.svg#gh-light-mode-only" width="50" alt="Discord Light" /></a>
-  <a href="https://github.com/delellisc" target="_blank"><img src="assets/github-dark.svg#gh-dark-mode-only" width="50" alt="GitHub Dark" /></a>
-  <a href="https://www.linkedin.com/in/camilo-de-lellis-de-medeiros/" target="_blank"><img src="assets/linkedin-dark.svg#gh-dark-mode-only" width="50" alt="LinkedIn Dark" /></a>
-  <a href="https://medium.com/@delellisc" target="_blank"><img src="assets/medium-dark.svg#gh-dark-mode-only" width="50" alt="Medium Dark" /></a>
-  <a href="https://discord.com/users/delellisc" target="_blank"><img src="assets/discord-dark.svg#gh-dark-mode-only" width="50" alt="Discord Dark" /></a>
+  <a href="https://github.com/delellisc" target="_blank">
+    <picture>
+      <source srcset="assets/github-dark.svg" media="(prefers-color-scheme: dark)" />
+      <img src="assets/github-light.svg" width="50" alt="GitHub" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/camilo-de-lellis-de-medeiros/" target="_blank">
+    <picture>
+      <source srcset="assets/linkedin-dark.svg" media="(prefers-color-scheme: dark)" />
+      <img src="assets/linkedin-light.svg" width="50" alt="LinkedIn" />
+    </picture>
+  </a>
+  <a href="https://medium.com/@delellisc" target="_blank">
+    <picture>
+      <source srcset="assets/medium-dark.svg" media="(prefers-color-scheme: dark)" />
+      <img src="assets/medium-light.svg" width="50" alt="Medium" />
+    </picture>
+  </a>
+  <a href="https://discord.com/users/delellisc" target="_blank">
+    <picture>
+      <source srcset="assets/discord-dark.svg" media="(prefers-color-scheme: dark)" />
+      <img src="assets/discord-light.svg" width="50" alt="Discord" />
+    </picture>
+  </a>
 </p>
 
 <br>
